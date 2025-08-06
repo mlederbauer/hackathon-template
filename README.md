@@ -1,6 +1,6 @@
 # LLM Hackathon Template
 
-A simple template for building LLM applications quickly. Perfect for hackathons and rapid prototyping.
+A simple template for building LLM applications quickly, for hackathons and rapid prototyping.
 This template contains basic LLM client setup, environment variable management, a simple Gradio web interface, and is ready to extend with your features!
 
 ## Quick Start
