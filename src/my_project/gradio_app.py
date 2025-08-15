@@ -5,6 +5,7 @@ You can also add more features, e.g. a chat history,
 a way to upload files, choose different models, ...
 
 Check out the documentation: https://www.gradio.app/docs/
+Customize themes here: https://www.gradio.app/guides/theming-guide
 """
 
 import gradio as gr
