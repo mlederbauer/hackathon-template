@@ -5,7 +5,7 @@ This template contains basic LLM client setup, environment variable management, 
 
 ## Quick Start
 
-1. **Install dependencies**: Download `uv` [here](https://github.com/astral-sh/uv?tab=readme-ov-file#installation) to install and manage packages (recommended).
+1. **Install dependencies**: Download `uv` [here](https://github.com/astral-sh/uv?tab=readme-ov-file#installation) to install and manage packages (recommended). Change the folder `my_project` to the name of your project, and modify the `pyproject.toml` file to include the name and a short description of your project. Then, install the package and its dependencies:
 
    ```bash
    uv sync
@@ -31,7 +31,7 @@ This template contains basic LLM client setup, environment variable management, 
 
 4. **Open your browser** to `http://localhost:7860` to use the web interface!
 
-5. **Customize!** Modify the Gradio app, package structure, and add your own features!
+5. **Customize!** Modify the Gradio app, package structure, and add your own features! Make sure to add a "graphical abstract" of your work as well.
 
 ## Adding New Features
 
